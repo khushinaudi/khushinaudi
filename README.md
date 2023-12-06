@@ -5,8 +5,8 @@
 -->
 
 
-- 🔭 I’m currently working on Frontend Development and DSA.
-- 🌱 I’m currently learning ReactJS.
+- 🔭 I’m currently working on Full-Stack Development and DSA.
+- 🌱 I’m currently learning ReactJS and Java Backend.
 - 👯 I’m looking to collaborate on Frontend Projects.
 - 🤔 I’m looking for help with SDE Opportunites and Networking.
 - 💬 Ask me about DSA and Frontend Development.
